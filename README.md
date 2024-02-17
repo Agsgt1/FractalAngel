@@ -3,3 +3,5 @@ raster node-wire language
 
 the best bucket in the world<br>
 also who uses more JS than HTML or CSS
+
+[ ![Happy Froggo](https://user-images.githubusercontent.com/25611707/141156780-43859878-ee18-40bf-aa0a-d04146cd6bb0.gif) ](https://user-images.githubusercontent.com/25611707/141156780-43859878-ee18-40bf-aa0a-d04146cd6bb0.gif)
